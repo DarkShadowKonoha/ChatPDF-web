@@ -43,7 +43,7 @@ export default async function Home() {
 
 
           <p className="max-w-xl mt-1 text-lg text-slate-600">
-            Upload PDF to talk with the PDF itself, u can ask questions regarding the contents of PDF, and you'll be provided with answers
+            Upload PDF to talk with the PDF itself, u can ask questions regarding the contents of PDF, and you will be provided with answers
           </p>
 
           <div className="w-full mt-4">
